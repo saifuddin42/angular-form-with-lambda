@@ -1,0 +1,55 @@
+.btn {
+    width: 100%;
+    text-align: center;
+    margin: 20px;
+}
+
+.divider{
+    width:15px;
+    height:auto;
+    display:inline-block;
+}
+
+h1  {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px ;
+    line-height: 30px;
+    margin-top:20px;
+  }
+
+  h2  {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px ;
+    margin-top:40px;
+  margin-bottom:10px;
+    line-height: 30px;
+  }
+
+
+/* button attributes */
+
+button {
+    margin-top:100px;
+    padding: 10px;
+    background-color: #4a64b9;
+    border-radius: 4px;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: inherit;
+    padding: 10px 15px;
+    border: 1px solid;
+}
+
+
+
+button:hover {
+    background-color: #303f6e;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
